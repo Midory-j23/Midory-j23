@@ -1,19 +1,17 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Mohammad&fontSize=80&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descColor=8b949e" width="100%"/>
+
+# 👋 Hi, I'm Mohammad
+
+### Full-Stack Developer from Iran 🇮🇷
+
+[![GitHub followers](https://img.shields.io/github/followers/Midory-j23?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22)](https://github.com/Midory-j23?tab=followers)
+[![Profile views](https://img.shields.io/badge/Profile%20Views-👀-0d1117?style=for-the-badge&labelColor=161b22)](https://github.com/Midory-j23)
+
 </div>
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://github.com/Midory-j23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+PHP;Building+AI-powered+apps;CRM+%26+Chatbot+specialist" alt="Typing SVG" />
-  </a>
-</div>
+---
 
-<br/>
-
-<!-- About Me -->
-<div align="center">
+## 🧑‍💻 About Me
 
 ```python
 class Mohammad:
@@ -23,91 +21,76 @@ class Mohammad:
         self.frameworks = ["FastAPI", "React", "Django"]
         self.focus      = ["AI Chatbots", "CRM Systems", "API Gateways"]
         self.location   = "Iran 🇮🇷"
+        self.currently  = "Building AI-powered apps & CRM systems"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together 🚀")
+        print("Thanks for dropping by! Let's build something great 🚀")
 
 me = Mohammad()
 me.say_hi()
 ```
 
-</div>
+---
 
-<br/>
-
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Tools & Platforms**
+**Databases & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
+---
 
-<br/>
+## 🚀 Featured Projects
 
-<!-- GitHub Stats -->
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🏢 padisaar_crm](https://github.com/Midory-j23/padisaar_crm) | CRM system — customer & data management platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| [🤖 chatbot-with-Auth-padibot](https://github.com/Midory-j23/chatbot-with-Auth-padibot) | AI Chatbot with JWT auth & model switcher | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| [🌐 site-chatbot-with-Fastapi-gateway](https://github.com/Midory-j23/site-chatbot-with-Fastapi-gateway) | Website chatbot with FastAPI gateway | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| [💬 site-chatbot](https://github.com/Midory-j23/site-chatbot) | Lightweight PHP-powered site chatbot | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Midory-j23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midory-j23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Midory-j23&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
+[![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midory-j23&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Midory-j23)
 
-<br/>
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![padisaar_crm](https://github-readme-stats.vercel.app/api/pin/?username=Midory-j23&repo=padisaar_crm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Midory-j23/padisaar_crm)
-[![chatbot-with-Auth-padibot](https://github-readme-stats.vercel.app/api/pin/?username=Midory-j23&repo=chatbot-with-Auth-padibot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Midory-j23/chatbot-with-Auth-padibot)
-
-[![site-chatbot-with-Fastapi-gateway](https://github-readme-stats.vercel.app/api/pin/?username=Midory-j23&repo=site-chatbot-with-Fastapi-gateway&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Midory-j23/site-chatbot-with-Fastapi-gateway)
-[![site-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Midory-j23&repo=site-chatbot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Midory-j23/site-chatbot)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midory-j23&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Midory-j23)
 
 </div>
 
-<br/>
+---
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+## 📫 Get in Touch
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midory-j23&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadj23ghm83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Midory-j23)
 
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Midory-j23&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
 </div>
