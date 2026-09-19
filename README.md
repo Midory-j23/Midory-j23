@@ -1,17 +1,16 @@
 <div align="center">
-
-# 👋 Hi, I'm Mohammad
-
-### Full-Stack Developer from Iran 🇮🇷
-
-[![GitHub followers](https://img.shields.io/github/followers/Midory-j23?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22)](https://github.com/Midory-j23?tab=followers)
-[![Profile views](https://img.shields.io/badge/Profile%20Views-👀-0d1117?style=for-the-badge&labelColor=161b22)](https://github.com/Midory-j23)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Mohammad&fontSize=80&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descColor=8b949e" width="100%"/>
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/Midory-j23">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+PHP;Building+AI-powered+apps;CRM+%26+Chatbot+specialist" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🧑‍💻 About Me
+<br/>
+
+<div align="center">
 
 ```python
 class Mohammad:
@@ -21,7 +20,6 @@ class Mohammad:
         self.frameworks = ["FastAPI", "React", "Django"]
         self.focus      = ["AI Chatbots", "CRM Systems", "API Gateways"]
         self.location   = "Iran 🇮🇷"
-        self.currently  = "Building AI-powered apps & CRM systems"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something great 🚀")
@@ -30,9 +28,13 @@ me = Mohammad()
 me.say_hi()
 ```
 
----
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -57,7 +59,9 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -68,29 +72,34 @@ me.say_hi()
 | [🌐 site-chatbot-with-Fastapi-gateway](https://github.com/Midory-j23/site-chatbot-with-Fastapi-gateway) | Website chatbot with FastAPI gateway | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 | [💬 site-chatbot](https://github.com/Midory-j23/site-chatbot) | Lightweight PHP-powered site chatbot | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midory-j23&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Midory-j23)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midory-j23&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Midory-j23)
+<a href="https://github.com/Midory-j23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Midory-j23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/Midory-j23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midory-j23&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+</a>
 
 </div>
 
----
+<br/>
 
 ## 📫 Get in Touch
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadj23ghm83@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Midory-j23)
 
----
+</div>
+
+<br/>
 
 <div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
