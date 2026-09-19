@@ -78,12 +78,16 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/Midory-j23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Midory-j23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Midory-j23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midory-j23&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</a>
+| 🗂️ Public Repos | 👥 Followers | ⭐ Total Stars | 💻 Total Commits |
+|:-:|:-:|:-:|:-:|
+| **7** | **1** | **0** | **35+** |
+
+| Language | Repos | Usage |
+|----------|-------|-------|
+| 🐘 PHP | 2 repos | `████████░░` 40% |
+| 🐍 Python | 1 repo | `█████░░░░░` 25% |
+| 🔷 TypeScript | 1 repo | `█████░░░░░` 25% |
+| 🌐 HTML | 1 repo | `██░░░░░░░░` 10% |
 
 </div>
 
